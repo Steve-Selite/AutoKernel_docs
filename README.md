@@ -6,7 +6,7 @@ _注意事项:_
 2.EN版本的内容审核
 
 ## _Finished:_   
-**CN**：
+**CN**：  
 1.博文blog   
 _2.简介_  
 3.readme.md  
