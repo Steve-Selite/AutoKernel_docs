@@ -6,7 +6,13 @@ _注意事项:_
 2.EN版本的内容审核
 
 ## _Finished:_   
-**CN**：1.博文blog(待同步)
+**CN**：
+1.博文blog   
+2.简介
+3.readme.md  
+
+**EN**:  
+
     
 ## _schedule:_   
 ### Week 1 (3.20-3.26):  
