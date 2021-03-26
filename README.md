@@ -17,9 +17,9 @@ _注意事项:_
 ## _schedule:_   
 ### Week 1 (3.20-3.26):  
 **EN:**  
-1.blog
-2.introction    
-（3.readme.md）  
+1.blog      
+2.introction          
+（3.readme.md）       
 
 **CN:**  
 _1.同步博文_    
