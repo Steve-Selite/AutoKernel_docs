@@ -8,7 +8,7 @@ _注意事项:_
 ## _Finished:_   
 **CN**：  
 1.博文blog   
-_2.简介_  
+_2.简介_    
 3.readme.md  
 
 **EN**:  
@@ -18,12 +18,12 @@ _2.简介_
 ### Week 1 (3.20-3.26):  
 **EN:**  
 1.blog
-2.introction  
-（3.readme.md）
+2.introction    
+（3.readme.md）  
 
 **CN:**  
-1.同步博文
-2.简介    
+_1.同步博文  
+2.简介 _       
 ***
 ### week 2（3.27-4.2）：   
 **EN:**  
