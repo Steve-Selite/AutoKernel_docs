@@ -8,8 +8,9 @@ _注意事项:_
 ## _Finished:_   
 **CN**：  
 1.博文blog   
-// 2.简介    
-3.readme.md  
+2.简介   
+3.教程 
+4.readme.md  
 
 **EN**:  
 
