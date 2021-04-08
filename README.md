@@ -12,7 +12,13 @@ _注意事项:_
 3.教程            
 4.readme.md  
 
-**EN**:  
+**EN**: 
+1.blog   
+2.introduction  
+3.readme
+4.Tutorials  
+5.examples   
+_Quick Start_   
 
     
 ## _schedule:_   
