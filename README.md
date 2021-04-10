@@ -4,6 +4,11 @@ _Timeline: **3.20-4.30 (6 weeks)**_
 _注意事项:_     
 1.机械填充 or 灵活调整？   
 2.EN版本的内容审核
+     
+## 待补充   
++ En   
++ CN: Halide\X86
+
 
 ## _Finished:_   
 **CN**：  
